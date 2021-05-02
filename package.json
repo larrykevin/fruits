@@ -1,0 +1,14 @@
+{
+  "name": "fundamentjs",
+  "version": "1.0.0",
+  "description": "Práctica de fundamentos de javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Larry Caycho <larry.kevin.c.c@gmail.com>",
+  "license": "MIT"
+}
